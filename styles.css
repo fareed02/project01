@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(233, 223, 223);
+}
+
+.chessbox {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(122, 238, 122);
+    border: 2px solid black;
+    max-width: 92%;
+    margin: auto;
+    margin-top: 45px;
+
+
+}
+
+.box {
+
+    background-color: white;
+    border-radius: 10px;
+    border: 1pxsolid black;
+    width: 100px;
+    height: 100px;
+
+}
+
+.game {
+    text-align: center;
+    border: 2px solid black;
+    background-color: rgb(227, 230, 233);
+    max-width: 92%;
+    align-items: center;
+    margin: auto;
+    margin-top: 30px;
+
+}
